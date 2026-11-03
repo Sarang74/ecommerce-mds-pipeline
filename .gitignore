@@ -5,3 +5,5 @@ logs/
 *.log
 .env
 __pycache__/
+*.duckdb
+*.duckdb.wal
